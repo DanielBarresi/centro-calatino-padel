@@ -1,0 +1,11 @@
+node_modules
+dist
+backend/data/
+*.tsbuildinfo
+
+# file temporanei
+frontend-3d/_da_cancellare/
+
+# materiale di studio dell'esame (solo in locale)
+modello/
+modello.zip

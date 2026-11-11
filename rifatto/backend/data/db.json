@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Arancino",
+      "category": "Rosticceria",
+      "price": 2.5,
+      "stock": 16,
+      "icon": "🍙"
+    },
+    {
+      "id": "p2",
+      "name": "Cartocciata",
+      "category": "Rosticceria",
+      "price": 2.2,
+      "stock": 3,
+      "icon": "🥐"
+    },
+    {
+      "id": "p3",
+      "name": "Pasta alla Norma",
+      "category": "Primi",
+      "price": 8,
+      "stock": 4,
+      "icon": "🍝"
+    },
+    {
+      "id": "p4",
+      "name": "Lasagna",
+      "category": "Primi",
+      "price": 9,
+      "stock": 0,
+      "icon": "🥘"
+    },
+    {
+      "id": "p5",
+      "name": "Acqua",
+      "category": "Bevande",
+      "price": 1,
+      "stock": 40,
+      "icon": "💧"
+    }
+  ],
+  "orders": [
+    {
+      "id": "d1d426ed-30c1-484d-a183-49a29170a5cf",
+      "number": 1,
+      "customerName": "Giulia",
+      "slot": "2026-10-20T19:00",
+      "lines": [
+        {
+          "productId": "p3",
+          "name": "Pasta alla Norma",
+          "price": 8,
+          "quantity": 2
+        }
+      ],
+      "total": 16,
+      "status": "ritirato",
+      "createdAt": "2026-10-20T11:26:16.611Z"
+    },
+    {
+      "id": "c6cc8cc5-5491-4ba3-9698-bd260f0dc9e3",
+      "number": 2,
+      "customerName": "Giulia",
+      "slot": "2026-10-20T19:00",
+      "lines": [
+        {
+          "productId": "p3",
+          "name": "Pasta alla Norma",
+          "price": 8,
+          "quantity": 2
+        }
+      ],
+      "total": 16,
+      "status": "ritirato",
+      "createdAt": "2026-10-20T11:27:56.925Z"
+    },
+    {
+      "id": "662ae09d-838e-41f0-a520-49e83c6c2a69",
+      "number": 3,
+      "customerName": "Giulia",
+      "slot": "2026-10-20T19:00",
+      "lines": [
+        {
+          "productId": "p3",
+          "name": "Pasta alla Norma",
+          "price": 8,
+          "quantity": 2
+        }
+      ],
+      "total": 16,
+      "status": "ritirato",
+      "createdAt": "2026-10-20T11:28:41.230Z"
+    },
+    {
+      "id": "803dcbd2-4855-486a-85c9-c2c692875726",
+      "number": 4,
+      "customerName": "kk",
+      "slot": "2026-10-20T19:15",
+      "lines": [
+        {
+          "productId": "p1",
+          "name": "Arancino",
+          "price": 2.5,
+          "quantity": 20
+        }
+      ],
+      "total": 50,
+      "status": "annullato",
+      "createdAt": "2026-10-20T13:32:03.853Z"
+    },
+    {
+      "id": "bf9f0b7a-ecb7-4686-b2fd-eedc6058d8be",
+      "number": 5,
+      "customerName": "loljkhkjhhkjgjh",
+      "slot": "2026-10-20T19:00",
+      "lines": [
+        {
+          "productId": "p1",
+          "name": "Arancino",
+          "price": 2.5,
+          "quantity": 4
+        }
+      ],
+      "total": 10,
+      "status": "ricevuto",
+      "createdAt": "2026-10-20T14:30:58.497Z"
+    }
+  ],
+  "nextNumber": 6
+}
