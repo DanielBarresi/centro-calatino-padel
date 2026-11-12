@@ -7,7 +7,7 @@
 web
 
 ## Users
-Soci del Centro Calatino Padel (Caltagirone) che prenotano un campo, spesso dal telefono. Utenti demo: Daniel Barresi (tesserato), Samuele Brivitello, Alberto Messina. Pubblico secondario: chi guarda il progetto come pezzo da portfolio di Daniel (recruiter, clienti).
+Soci del Centro Calatino Padel che prenotano un campo, spesso dal telefono. Utenti demo definiti nel backend (uno tesserato, due no). Pubblico secondario: chi guarda il progetto come pezzo da portfolio di Daniel (recruiter, clienti).
 
 ## Product Purpose
 Prenotare in pochi tocchi uno slot da 90 minuti su uno dei tre campi, vedere e annullare le proprie prenotazioni. Deve essere comodo da usare davvero e allo stesso tempo memorabile da mostrare.
