@@ -1,0 +1,5 @@
+# Fine riga uniformi tra Windows e Linux
+* text=auto
+*.png binary
+*.zip binary
+*.woff2 binary
